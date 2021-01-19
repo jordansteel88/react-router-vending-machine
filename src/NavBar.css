@@ -1,0 +1,23 @@
+.NavBar,
+.NavBack {
+  background-color: rgb(57, 0, 172);
+  text-align: center;
+  font-weight: bold;
+}
+
+.NavBar a,
+.NavBack a {
+  padding: 1rem 0;
+  width: 10em;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+}
+
+.NavBar a:hover,
+.NavBack a:hover {
+  background-color: rgb(29, 0, 133);
+  color: white !important;
+}
+
+
